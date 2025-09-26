@@ -1,0 +1,5 @@
+{
+  "name": "AI Travel Itinerary Generator",
+  "description": "An application that uses the Gemini API to generate a detailed 3-day travel itinerary for any city in the world. Users can input a city name to receive a structured plan with daily activities, times, and locations.",
+  "requestFramePermissions": []
+}
